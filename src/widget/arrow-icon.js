@@ -9,7 +9,7 @@ export default class ArrowIcon extends Component {
                 { (isOpened) ?
                     <svg style={{
                             marginRight: 15,
-                            marginTop: 6,
+                            marginTop: 10,
                             verticalAlign: 'middle',
                         }}
                         fill="#FFFFFF" height="15" viewBox="0 0 15 15" width="15"
