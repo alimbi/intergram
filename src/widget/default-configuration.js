@@ -7,8 +7,8 @@ export const defaultConfiguration = {
     cookieExpiration: 1, // in days. Once opened, closed chat title will be shown as button (when closedStyle is set to 'chat')
     introMessage: 'سلام! چگونه میتوانم کمکتان کنم؟',
     autoResponse: 'در حال برقراری ارتباط با اپراتور, لطفا صبر کنید...',
-    autoNoResponse: 'بنظر میرسد هم اکنون اپراتور آفلاین است, لطفا در صورت تمایل اطلاعات تماس خود را بگذارید ' +
-    'تا در اسرع وقت با شما تماس بگیریم.',
+    autoNoResponse: 'بنظر میرسد هم اکنون اپراتور آفلاین است, لطفا از روش دیگری برای ارتباط با ما استفاده کنید و یا ' +
+    'اطلاعات تماس خود را بگذارید تا در اسرع وقت با شما تماس بگیریم.',
     placeholderText: 'پیامتان را بنویسید و سپس "enter" را بزنید...',
     displayMessageTime: true,
     mainColor: '#5cb85c',
