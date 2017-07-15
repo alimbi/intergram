@@ -2,7 +2,7 @@
 export const defaultConfiguration = {
     titleClosed: 'پشتیبانی آنلاین',
     titleOpen: 'گفتگو کنید!',
-    closedStyle: 'chat', // button or chat
+    closedStyle: 'button', // button or chat
     closedChatAvatarUrl: 'https://www.neotheme.ir/wp-content/uploads/2017/07/myAvatar.png', // only used if closedStyle is set to 'chat'
     cookieExpiration: 1, // in days. Once opened, closed chat title will be shown as button (when closedStyle is set to 'chat')
     introMessage: 'سلام! چگونه میتوانم کمکتان کنم؟',
