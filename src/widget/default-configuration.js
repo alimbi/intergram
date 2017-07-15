@@ -9,7 +9,7 @@ export const defaultConfiguration = {
     autoResponse: 'در حال برقراری ارتباط با اپراتور, لطفا صبر کنید...',
     autoNoResponse: 'بنظر میرسد هم اکنون اپراتور آفلاین است, لطفا در صورت تمایل اطلاعات تماس خود را بگذارید ' +
     'تا در اسرع وقت با شما تماس بگیریم.',
-    placeholderText: 'پیامتان را بنویسید...',
+    placeholderText: 'پیامتان را بنویسید و سپس "enter" را بزنید...',
     displayMessageTime: true,
     mainColor: '#5cb85c',
     alwaysUseFloatingButton: false,
