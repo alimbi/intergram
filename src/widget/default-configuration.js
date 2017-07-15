@@ -1,17 +1,17 @@
 
 export const defaultConfiguration = {
-    titleClosed: 'Click to chat!',
-    titleOpen: 'Let\'s chat!',
+    titleClosed: 'پشتیبانی آنلاین',
+    titleOpen: 'گفتگو کنید!',
     closedStyle: 'chat', // button or chat
-    closedChatAvatarUrl: '', // only used if closedStyle is set to 'chat'
+    closedChatAvatarUrl: 'https://www.neotheme.ir/wp-content/uploads/2017/07/myAvatar.png', // only used if closedStyle is set to 'chat'
     cookieExpiration: 1, // in days. Once opened, closed chat title will be shown as button (when closedStyle is set to 'chat')
-    introMessage: 'Hello! How can we help you?',
-    autoResponse: 'Looking for the first available admin (It might take a minute)',
-    autoNoResponse: 'It seems that no one is available to answer right now. Please tell us how we can ' +
-    'contact you, and we will get back to you as soon as we can.',
-    placeholderText: 'Send a message...',
+    introMessage: 'سلام! چگونه میتوانم کمکتان کنم؟',
+    autoResponse: 'در حال برقراری ارتباط با اپراتور, لطفا صبر کنید...',
+    autoNoResponse: 'بنظر میرسد هم اکنون اپراتور آفلاین است, لطفا در صورت تمایل اطلاعات تماس خود را بگذارید ' +
+    'تا در اسرع وقت با شما تماس بگیریم.',
+    placeholderText: 'پیامتان را بنویسید...',
     displayMessageTime: true,
-    mainColor: '#1f8ceb',
+    mainColor: '#5cb85c',
     alwaysUseFloatingButton: false,
     desktopHeight: 450,
     desktopWidth: 370
