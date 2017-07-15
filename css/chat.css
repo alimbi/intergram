@@ -46,7 +46,7 @@ html, body {
     -webkit-order: 1;
         -ms-flex-order: 1;
             order: 1;
-    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
     box-shadow: 1px 2px 0 #D4D4D4;
 }
 
@@ -55,7 +55,7 @@ html, body {
     -webkit-order: 1;
         -ms-flex-order: 1;
             order: 1;
-    border-top-left-radius: 0;
+    border-top-right-radius: 0;
     box-shadow: -1px 2px 0 #D4D4D4;
 }
 
