@@ -7,7 +7,7 @@ export const desktopWrapperStyle = {
     borderRadius: '10px',
     background: 'rgb(229, 229, 229)',
     boxSizing: 'content-box',
-    boxShadow: '0px 0px 30px rgba(0, 0, 0, 0.5)',
+    boxShadow: '0px 0px 7px rgb(66, 66, 66)',
     overflow: 'hidden'
 };
 
