@@ -53,7 +53,7 @@ export const desktopTitleStyle = {
     display: 'flex',
     justifyContent: 'space-between',
     padding: '5px 0 5px 20px',
-    fontFamily: 'Lato, sans-serif',
+    fontFamily: 'Vazir',
     color: '#fff',
     cursor: 'pointer',
 };
